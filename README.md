@@ -23,10 +23,10 @@ Email Spam Classification Application
 
 #🏃‍♂️ How to Run
 >Clone the repository:
-git clone https://github.com/your-username/spam-classification-app.git
+git clone https://github.com/AryaSwati321/AICTE_SpamEmailClassification_Project.git
 
 >Navigate to the project directory:
-cd
+cd AICTE_SpamEmailClassification_Project
 
 >Install the required dependencies:
 pip install -r requirements.txt
