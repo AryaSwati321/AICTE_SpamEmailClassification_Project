@@ -16,22 +16,23 @@ Email Spam Classification Application
 .
 ├── spam123.pkl               # Pre-trained ML model (saved with pickle)
 ├── vec123.pkl                # CountVectorizer object (for transforming text)
-├── app.py                    # Main Streamlit app code
+├── spamDetector.py                    # Main Streamlit app code
 ├── requirements.txt          # Python dependencies
 ├── README.md                 # Project documentation
+├──SpamDetector.ipynb         # jupyter notebook 
 
 #🏃‍♂️ How to Run
 >Clone the repository:
 git clone https://github.com/your-username/spam-classification-app.git
 
 >Navigate to the project directory:
-cd spam-classification-app
+cd
 
 >Install the required dependencies:
 pip install -r requirements.txt
 
 >Run the application:
-streamlit run app.py
+streamlit run spamDetector.py
 
 >Open your browser at http://localhost:8501 to view the app.
 
