@@ -14,12 +14,12 @@ Email Spam Classification Application
 
 #📂 Project Structure
 .
-├── spam123.pkl               # Pre-trained ML model (saved with pickle)
-├── vec123.pkl                # CountVectorizer object (for transforming text)
-├── spamDetector.py                    # Main Streamlit app code
-├── requirements.txt          # Python dependencies
-├── README.md                 # Project documentation
-├──SpamDetector.ipynb         # jupyter notebook 
+├── spam123.pkl               # Pre-trained ML model (saved with pickle)                                         
+├── vec123.pkl                # CountVectorizer object (for transforming text)                           
+├── spamDetector.py           # Main Streamlit app code                                          
+├── requirements.txt          # Python dependencies                               
+├── README.md                 # Project documentation                                
+├──SpamDetector.ipynb         # jupyter notebook                          
 
 #🏃‍♂️ How to Run
 >Clone the repository:
